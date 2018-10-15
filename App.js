@@ -7,6 +7,7 @@ import { Provider } from "react-redux";
 
 let store = createStore(reducer);
 
+//test
 export default class App extends React.Component {
   render() {
     return (
